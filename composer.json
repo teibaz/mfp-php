@@ -1,5 +1,5 @@
 {
-    "name": "dlzer/mfp-php",
+    "name": "teibaz/mfp-php",
     "description": "PHP Libary for accessing MyFitnessPal diary data",
     "type": "library",
     "keywords": [
